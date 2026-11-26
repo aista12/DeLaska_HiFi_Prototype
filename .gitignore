@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+coverage/
+*.tsbuildinfo
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

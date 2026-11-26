@@ -39,14 +39,3 @@ backend/src/
   bootstrap.ts     wires the layers together
 frontend/src/      React UI (Telegram look-alike phone, staff groups, iiko panel)
 ```
-
-## 1-minute screencast script
-
-| Time | Action |
-|------|--------|
-| 0:00–0:05 | Show the three panels: customer, staff groups, iiko |
-| 0:05–0:20 | START → Menu → Croissants → Almond croissant → Add to cart → Continue shopping → Pistachio → Add |
-| 0:20–0:28 | Cart → ➕ (quantity changes, total updates) → Checkout |
-| 0:28–0:45 | Delivery → Yunusabad → type an address → Share my phone number → type a comment → Click |
-| 0:45–0:52 | Read the summary → Confirm order → payment received + order number |
-| 0:52–1:00 | Point at the Operators group, the Couriers group (Yandex Maps link) and the order in iiko |
